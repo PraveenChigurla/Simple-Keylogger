@@ -1,0 +1,1 @@
+This program demonstrates how to use the pynput library to monitor keyboard events and log them to a file. It can be used for various purposes such as keylogging for debugging, monitoring user activity, or analyzing keyboard input
